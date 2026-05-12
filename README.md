@@ -39,7 +39,7 @@ To write a python program to perform stop and wait protocol
         break
 ```
 ## OUTPUT
-<img width="1919" height="1046" alt="Screenshot 2026-05-12 104438" src="https://github.com/user-attachments/assets/1f009f04-d32d-4710-b87d-c598ab44583a" />
+<img width="1705" height="251" alt="image" src="https://github.com/user-attachments/assets/27b62f65-a6dd-4036-8482-386b2bdb4929" />
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
